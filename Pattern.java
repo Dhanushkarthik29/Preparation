@@ -6,7 +6,7 @@ Input:
 5 9 12 14 15
 
 Output:
-public class Main
+public class Pattern
 {
 	public static void main(String[] args) {
 		int k=5;
